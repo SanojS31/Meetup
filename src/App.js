@@ -11,7 +11,7 @@ class App extends Component {
   state = {
     isRegister: false,
     name: '',
-    topic: 'Arts and Culture',
+    topic: 'ARTS_AND_CULTURE',
     registerError: false,
   }
 
