@@ -1,4 +1,4 @@
-## **_Website_**:[https://sanojmeetup.ccbp.tech/](https://sanojmeetup.ccbp.tech/)🔗
+## **_Website_**:[https://sanojsmeetup.ccbp.tech/](https://sanojsmeetup.ccbp.tech/)🔗
 
 
 The goal of this coding exam is to quickly get you off the ground with **React Context**.
